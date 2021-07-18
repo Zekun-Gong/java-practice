@@ -1,0 +1,11 @@
+1. 下列哪个不是class类中的反射方法
+getDeclaredFields
+getDeclaredNames;
+getDeclaredMethods;
+getDeclaredConstructors
+
+2.java interface 默认修饰符
+3.对类访问控制块的声明顺序应该是
+4.java中创建的具有输出流和错误流的进程的处理
+5.jinfo用法
+6.确定某一个实例占用内存较多，java进程经常FUll GC
